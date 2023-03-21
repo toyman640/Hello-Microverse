@@ -176,6 +176,6 @@ Give a :star:️ if you like this project and how I managed to build it!
 
 ## :memo: License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
